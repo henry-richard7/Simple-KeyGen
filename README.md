@@ -5,6 +5,14 @@ A python program that generates key with given sample string
 * Rstr
 * PySimpleGUI
 
+# Watch it On Youtube
+[![](https://img.shields.io/badge/Watch%20Now-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/watch?v=soDusH8UNf4)
+
+# My Youtube Channel
+[![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+[![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
 # Screenshot
 ![Python Krygen](https://user-images.githubusercontent.com/68910039/116179187-80719f00-a734-11eb-938b-6105771cf501.png)
 
